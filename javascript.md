@@ -85,7 +85,7 @@
 
 ## Scope in javascript
 * **functional scope** ( define using var keyword.)
-    * A variable declared with in function have access wth in that function only we can't access that function outside the function
+    * A variable declared with in function have access with in that function only. we can't access that function outside the function
 
         ```
         var a=2;
